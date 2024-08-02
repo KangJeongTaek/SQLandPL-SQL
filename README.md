@@ -14,3 +14,5 @@
 ## [6장](https://github.com/KangJeongTaek/SQLandPL-SQL/blob/main/MD/CH06.MD)
 
 ## [7장](https://github.com/KangJeongTaek/SQLandPL-SQL/blob/main/MD/CH07.MD)
+
+## [8장](https://github.com/KangJeongTaek/SQLandPL-SQL/blob/main/MD/CH08.MD)
